@@ -1,0 +1,12 @@
+{
+  "owner": {
+    "username": "kannapat21",
+    "email": "kannapat.gun2553@gmail.com"
+  },
+  "records": {
+    "MX": [
+      { "target": "feedback-smtp.ap-northeast-1.amazonses.com", "priority": 10 }
+    ],
+    "TXT": "v=spf1 include:amazonses.com ~all"
+  }
+}
