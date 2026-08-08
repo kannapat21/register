@@ -1,1 +1,9 @@
-
+{
+  "owner": {
+    "username": "kannapat21",
+    "email": "kannapat.gun2553@gmail.com"
+  },
+  "records": {
+    "TXT": "p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDH7NTFJ9Hd8TYMPuOczdGIjUP2LdqxYontZM88m+M/k8Skavnz0hey5DugCPo8lj5tkzWHSqrZdO1uES4xPxKXyqty937FeDP1Si3XnNoMjJShLmuabKJl5riNwiuAMgB/v3qylZRzPCRuy2cNDHJrhGIV7+qX9AsYBGa06wrPWQIDAQAB"
+  }
+}
